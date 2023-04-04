@@ -1,0 +1,14 @@
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\WaterMonitoring.csprojResolveAssemblyReference.cache
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\TemperatureClient.AlarmForm.resources
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\WaterMonitoring.csproj.GenerateResource.Cache
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\LampControl.exe
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\bin\Debug\LampControl.exe
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\项目定制\Winform\水位显示存储-C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\项目定制\Winform\开门统计-C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\项目定制\Winform\开门统计-C#\code\LampControl\obj\Debug\LampControl.exe
+E:\项目定制\Winform\开门统计-C#\code\LampControl\obj\Debug\LampControl.pdb

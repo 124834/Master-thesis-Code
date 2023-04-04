@@ -1,0 +1,156 @@
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\bin\Debug\LampControl.exe.config
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\bin\Debug\LampControl.exe
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\insulator.LoginForm.resources
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\LampControl.exe
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\obj\Debug\LampControl.pdb
+D:\项目定制\Winform\指纹开锁传输PC机存储注册查询1987017318（20180506-0）\code\LampControl\bin\Debug\LampControl.pdb
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\bin\Debug\LampControl.exe.config
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.exe
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.pdb
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\bin\Debug\LampControl.exe
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\bin\Debug\LampControl.pdb
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\insulator.LoginForm.resources
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+G:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\bin\Debug\LampControl.exe.config
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.exe
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.pdb
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\bin\Debug\LampControl.exe
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\bin\Debug\LampControl.pdb
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\Design2019\winform\基于单片机的指纹打卡考勤系统设计-961660188-201902251226\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+I:\du\角度测量-1021964660\code\LampControl\bin\Debug\LampControl.exe.config
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\LampControl.exe
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\LampControl.pdb
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\insulator.LoginForm.resources
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+I:\du\角度测量-1021964660\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+I:\du\角度测量-1021964660\code\LampControl\bin\Debug\LampControl.exe
+I:\du\角度测量-1021964660\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020-年毕业设计\@2019-9月份-32设计\057（黑总-002）震动检测仪设计=lcd1602+震动+usb转ttl+C#\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020-年毕业设计\@2019-9月份-51设计\270-（黑总-智能猪圈）= stc89c52+ds1302+dht11+hx711+dht11+光照强度+C#+\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020-年毕业设计\@2019-9月份-51设计\292 - （）电子血压计=lcd1602+tcl2543+\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020年9~2月程序代码\A1005-基于stm32电子秤设计=lcd1602+hx711+4x4+蓝牙+C#\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1017-基于stm32f407的土壤温湿度控制系统设计=lcd1602+ds18b20+土壤湿度+zigbee+C#\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1067-基于RFID的枪支管理装置的设计与实现=4板子-3路rc522+ds1302+lcd12864+SX1278+C#+保存记录\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020年9~2月程序代码\A1071-设计考核防作弊系统设计=stc12-舵机+指纹模块+C#（成绩录入+指纹注册+考核时间）\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\bin\Debug\LampControl.exe.config
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\bin\Debug\LampControl.exe
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\bin\Debug\LampControl.pdb
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\Fingerprint.csprojResolveAssemblyReference.cache
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+E:\2020年9~2月程序代码\A1151-基于stm32物联网的搞笑指挥教师的设计与实现=lcd12864+MQ2+GT-38+rc522+dht11+C#+IC卡注册注销\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.Cache
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\Fingerprint.csproj.AssemblyReference.cache
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.cache
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\Fingerprint.csproj.CoreCompileInputs.cache
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\LampControl.exe
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\obj\Debug\LampControl.pdb
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\bin\Debug\LampControl.exe.config
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\bin\Debug\LampControl.exe
+F:\2023-工作室\B1090-智能杯子=oled+mpu6050+蓝牙+超声波+C#(定时器+txt+串口)\C#\code\LampControl\bin\Debug\LampControl.pdb
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\Fingerprint.csproj.AssemblyReference.cache
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\LampControl.FingerprintForm.resources
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\insulator.LoginForm.resources
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\TemperatureClient.Monitor.resources
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\LampControl.Properties.Resources.resources
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\Fingerprint.csproj.GenerateResource.cache
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\Fingerprint.csproj.CoreCompileInputs.cache
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\LampControl.pdb
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\bin\Debug\LampControl.exe.config
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\bin\Debug\LampControl.exe
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\bin\Debug\LampControl.pdb
+D:\鲁汶大学\课程学习\sem5\master thesis\Master thesis project\程序代码\finished\C#\code\LampControl\obj\Debug\LampControl.exe

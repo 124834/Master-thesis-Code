@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 from sklearn.metrics import f1_score
 
-path = r'分离数据1\output.csv' #change to the path you need
+path = r'分离数据1\output1.csv'
 file = glob.glob(path)
 dl = []
 dl.append(pd.read_csv(file[0], delimiter=','))
@@ -20,6 +20,8 @@ df = pd.concat(dl)
 data = df.drop(['original', 'predict'], axis=1).values
 original = df['original'].values
 predict = df['predict'].values
+real_water_volume = df['RealWaterVolume'].values
+predicted_water_volume = df['PredictWaterVolume'].values
 plotrange=(30,300)
 originalcolor="yellow"
 predictcolor="blue"
@@ -112,19 +114,77 @@ def plot_only_gestures(original, predict, title, data_range):
                         ax.hlines(1, start, end, color=color, linewidth=3)
                     start = None
 
-    add_patches(original, 'black', fill=False)
-    add_patches(predict, 'blue', fill=True)
-
-    
+    # 画 original 的竖直线
     for i in range(lengt):
         if original[i] == 1 and original[i-1]==0 :
             ax.vlines(i, 0, 1, color='black', linewidth=3)
         if original[i] == 0 and original[i-1]==1 :
             ax.vlines(i, 0, 1, color='black', linewidth=3)
+    add_patches(original, 'black', fill=False)
+    add_patches(predict, 'blue', fill=True)
+
+    # 添加图例
+    add_patches(original, 'black', fill=False)
+    add_patches(predict, 'blue', fill=True)
+
+    # 添加图例
+    ax.plot([], [], color='black', linewidth=3, label='Truth Drinking Gesture')
+    ax.add_patch(Rectangle((0, 0), 1, 1, alpha=0.3, color='blue', label='Predicted Drinking Gesture'))
+    ax.legend(fontsize=16, loc='best')
 
     plt.show()
 
 plot_only_gestures(original, predict, 'Comparison of Original and Predicted Drinking Gestures (only gestures)', plotrange)
+
+def plot_water_volume(real_water_volume, predicted_water_volume, title, data_range):
+    real_water_volume = real_water_volume[data_range[0]:data_range[1]]
+    predicted_water_volume = predicted_water_volume[data_range[0]:data_range[1]]
+    
+    length = len(real_water_volume)
+    
+    fig, ax = plt.subplots()
+    fig.set_size_inches(24, 4)
+    fig.suptitle(title)
+    
+    ax.tick_params(labelsize=20)
+    ax.set_xlim(0, length)
+    ax.set_xlabel('Time (s)', fontsize=20)
+    ax.set_ylim(0, max(max(real_water_volume), max(predicted_water_volume)) * 1.1)
+    ax.set_ylabel('Water Volume (mL)', fontsize=20)
+    ax.grid()
+
+    # Add lines for real water volume
+    for i in range(length):
+        if i == 0 or real_water_volume[i] != real_water_volume[i-1]:
+            ax.hlines(real_water_volume[i], i, i+1, color='black', linewidth=3)
+            if i != 0:
+                ax.vlines(i, real_water_volume[i-1], real_water_volume[i], color='black', linewidth=3)
+        elif i == length - 1:
+            ax.hlines(real_water_volume[i], i, i+1, color='black', linewidth=3)
+        else:
+            ax.hlines(real_water_volume[i], i, i+1, color='black', linewidth=3)
+
+    # Add patches for predicted water volume
+    start = None
+    end = None
+
+    for i in range(1, len(predicted_water_volume)):
+        if predicted_water_volume[i-1] == 0 and predicted_water_volume[i] != 0:
+            start = i
+            if i == 1 and predicted_water_volume[0] != 0:
+                start = 0
+        elif predicted_water_volume[i-1] != 0 and predicted_water_volume[i] == 0:
+            end = i
+            if start is not None:
+                ax.add_patch(Rectangle((start, ax.get_ylim()[0]), end - start, predicted_water_volume[start], alpha=0.3, color='orange', fill=True))
+                start = None
+    ax.plot([], [], color='black', linewidth=3, label='Truth Water Volume')
+    ax.add_patch(Rectangle((0, 0), 1, 1, alpha=0.3, color='orange', label='Measured Water Volume'))
+    ax.legend(fontsize=16, loc='best', bbox_to_anchor=(1, 1))
+    plt.show()
+
+plot_water_volume(real_water_volume, predicted_water_volume, 'Comparison of Real and Predicted Water Volume', plotrange)
+
 
 def plot_data_Line_with_original(data, original, title, data_range):
     data = data[data_range[0]:data_range[1]]
@@ -177,6 +237,7 @@ def plot_data_Line_with_original(data, original, title, data_range):
     plt.show()
 
 plot_data_Line_with_original(data, original, 'Original Drinking Gestures with Updated Line Style', plotrange)
+
 
 def segments(array):
     # Find the start and end indices of each segment
